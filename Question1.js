@@ -23,7 +23,7 @@ answer = (array) => {
 }
 
 //Bonus: Make it so it organizes strings differently from number types. 
-//i.e. [1, "2", "3", 2] should return [[1,2], ["2", "3"]]....////
+//i.e. [1, "2", "3", 2] should return [[1,2], ["2", "3"]]..../////////
 
 let array = [1, "2", "3", 2];
 answer = (array) => {
